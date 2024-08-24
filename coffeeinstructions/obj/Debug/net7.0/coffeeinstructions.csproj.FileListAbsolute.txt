@@ -1,0 +1,15 @@
+C:\Users\MKara\coffeeinstructions\bin\Debug\net7.0\coffeeinstructions.exe
+C:\Users\MKara\coffeeinstructions\bin\Debug\net7.0\coffeeinstructions.deps.json
+C:\Users\MKara\coffeeinstructions\bin\Debug\net7.0\coffeeinstructions.runtimeconfig.json
+C:\Users\MKara\coffeeinstructions\bin\Debug\net7.0\coffeeinstructions.dll
+C:\Users\MKara\coffeeinstructions\bin\Debug\net7.0\coffeeinstructions.pdb
+C:\Users\MKara\coffeeinstructions\obj\Debug\net7.0\coffeeinstructions.csproj.AssemblyReference.cache
+C:\Users\MKara\coffeeinstructions\obj\Debug\net7.0\coffeeinstructions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKara\coffeeinstructions\obj\Debug\net7.0\coffeeinstructions.AssemblyInfoInputs.cache
+C:\Users\MKara\coffeeinstructions\obj\Debug\net7.0\coffeeinstructions.AssemblyInfo.cs
+C:\Users\MKara\coffeeinstructions\obj\Debug\net7.0\coffeeinstructions.csproj.CoreCompileInputs.cache
+C:\Users\MKara\coffeeinstructions\obj\Debug\net7.0\coffeeinstructions.dll
+C:\Users\MKara\coffeeinstructions\obj\Debug\net7.0\refint\coffeeinstructions.dll
+C:\Users\MKara\coffeeinstructions\obj\Debug\net7.0\coffeeinstructions.pdb
+C:\Users\MKara\coffeeinstructions\obj\Debug\net7.0\coffeeinstructions.genruntimeconfig.cache
+C:\Users\MKara\coffeeinstructions\obj\Debug\net7.0\ref\coffeeinstructions.dll
